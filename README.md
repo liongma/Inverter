@@ -1,5 +1,6 @@
 # Custom Voltage Source PMSM Inverter
-600V 50kW Inverter Module
+600V 50kW Inverter Module for high-performance vehicle PMSM. Documentation is still a work in progress. Please ask me questions if you have any!
+liongite12345@gmail.com
 
 **Input Bus Voltage**: 750 V  
 **Input Bus Current**: 100 A  
