@@ -3,7 +3,7 @@
 
 **Input Bus Voltage**: 650 V  
 **Input Bus Current**: 100 A  
-**Continuous Power**: 50 kW
+**Continuous Power**: 50 kW  
 **Peak Power**: 80 kW  
 **Continuous Output Current**: 100 Arms  
 **Peak Output Current**: 140 Arms  
