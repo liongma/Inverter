@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;H7Rev2/Inverter H7.ioc&apos; to &apos;H7Rev2.ioc&apos;" description="Rename resource &apos;Inverter H7.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Inverter H7.ioc" name="H7Rev2.ioc" stamp="1761349133208" updateReferences="true"/>
+</session>

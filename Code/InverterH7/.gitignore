@@ -1,0 +1,15 @@
+# *.metadata/
+# *.log
+Firmware/.metadata/.plugins/org.eclipse.core.resources/
+*.o
+*.prefs
+*.xmi
+*.cyclo
+*.su
+*.map
+*.pdom
+*.log
+*.prefs
+*.list
+*.elf
+*.xml
