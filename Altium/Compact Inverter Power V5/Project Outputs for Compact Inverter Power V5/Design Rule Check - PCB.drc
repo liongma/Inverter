@@ -1,0 +1,109 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Compact Inverter Power V5\PCB.PcbDoc
+Date     : 3/1/2026
+Time     : 3:12:05 PM
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNetClass('HV')),(InNetClass('LV'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.18mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InNetClass('LV')),(InNetClass('LV'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InNetClass('HV')),(InNetClass('HV'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (InNetClass('All Nets')) )
+Rule Violations :0
+
+Processing Rule : Un-Connected Pin Constraint ( (InNet('No Net') And HasFootprint('No Footprint')) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1.27mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Plane Constraint (Distance=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Allowed) (Ignore First Corner = Allowed)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.381mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (All)
+   Violation between Minimum Annular Ring: (No Ring) Pad MP1-1(-30mm,65mm) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad MP6-1(0mm,65mm) on Multi-Layer (Annular Ring missing on Top Layer)
+   Violation between Minimum Annular Ring: (No Ring) Pad MP9-1(30mm,65mm) on Multi-Layer (Annular Ring missing on Top Layer)
+Rule Violations :3
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.604mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.001mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) ((OnLayer('Layer 1') OR OnLayer('Layer 2') OR OnLayer('Layer 3') OR OnLayer('Layer 4'))  OR OnLayer('Top Solder') OR OnLayer('Bottom Solder'))
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.305mm) Between Area Fill (54mm,17mm) (60mm,53mm) on Layer 1 And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.305mm) Between Area Fill (54mm,17mm) (60mm,53mm) on Layer 4 And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.305mm) Between Area Fill (-60mm,17mm) (-54mm,53mm) on Layer 1 And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.305mm) Between Area Fill (-60mm,17mm) (-54mm,53mm) on Layer 4 And Board Edge 
+Rule Violations :4
+
+Processing Rule : Parallel Segment Constraint (Gap=0.254mm ) (Limit=25.4mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mm) (Max=254mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=30ps) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=50ps) (Disabled)(InDifferentialPairClass('All Differential Pairs'))
+Rule Violations :0
+
+Processing Rule : Daisy Chain Stub Length(Maximum =12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Maximum Via Count Constraint (Limit=100) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Max Via Stub Length (Back Drilling rule) (Max Stub Length = 0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Permitted Layers - (Top Layer, Bottom Layer) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:02

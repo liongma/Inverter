@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=B1|Source=..\Inverter General\Inverter General.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\Inverter General\Inverter General.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=B2|Source=..\Inverter Logic Stage\Inverter Logic Stage.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\Inverter Logic Stage\Inverter Logic Stage.PrjPcb

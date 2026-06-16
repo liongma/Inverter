@@ -1,0 +1,40 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Compact Inverter Power V5.PrjPcb]
+   Generated File[PCB_Copper_Signal_Top.gbr]
+   Generated File[PCB_Copper_Signal_1.gbr]
+   Generated File[PCB_Copper_Signal_2.gbr]
+   Generated File[PCB_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Pads_Bot.gbr]
+   Generated File[PCB_Pads_Top.gbr]
+   Generated File[PCB_Legend_Top.gbr]
+   Generated File[PCB_Legend_Bot.gbr]
+   Generated File[PCB_Soldermask_Top.gbr]
+   Generated File[PCB_Soldermask_Bot.gbr]
+   Generated File[PCB_Paste_Top.gbr]
+   Generated File[PCB_Paste_Bot.gbr]
+   Generated File[PCB_Design_Notes.gbr]
+   Generated File[PCB_Board_Outline.gbr]
+   Generated File[PCB_Bottom_Assembly.gbr]
+   Generated File[PCB_Top_Assembly.gbr]
+   Generated File[PCB_Top_3D_Body.gbr]
+   Generated File[PCB_Top_Courtyard.gbr]
+   Generated File[PCB_Top_Component_Center.gbr]
+   Generated File[PCB_Bottom_Courtyard.gbr]
+   Generated File[PCB_Bottom_3D_Body.gbr]
+   Generated File[PCB_Top_Designator.gbr]
+   Generated File[PCB_Top_Component_Outline.gbr]
+   Generated File[PCB_Bottom_Assembly_1.gbr]
+   Generated File[PCB_Bottom_Component_Center.gbr]
+   Generated File[PCB_Profile.gbr]
+   Generated File[PCB_PTH_Drill.gbr]
+   Generated File[PCB_Drawing_1.gbr]
+   Generated File[PCB_Drillmap_1.gbr]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 3:29:26 PM On 3/1/2026

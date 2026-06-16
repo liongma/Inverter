@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB.GBR   3/1/2026  3:29:16 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Layer 1                                 
+.gbr                Layer 2                                 
+.gbr                Layer 3                                 
+.gbr                Layer 4                                 
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Design Notes                            
+.gbr                Board Outline                           
+.gbr                Bottom Assembly                         
+.gbr                Top Assembly                            
+.gbr                Top 3D Body                             
+.gbr                Top Courtyard                           
+.gbr                Top Component Center                    
+.gbr                Bottom Courtyard                        
+.gbr                Bottom 3D Body                          
+.gbr                Top Designator                          
+.gbr                Top Component Outline                   
+.gbr                Bottom Assembly                         
+.gbr                Bottom Component Center                 
+.gbr                Profile                                 
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------
